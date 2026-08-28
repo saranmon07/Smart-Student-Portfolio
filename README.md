@@ -13,7 +13,7 @@ A desktop application developed using Java Swing, JDBC, MySQL, OOP, and Maven.
 
 ## Team Members
 
-1. Saran - Repository Owner
+1. Saran 
 2. Dhanesh 
 3. Karthik
 4. Adharvu
