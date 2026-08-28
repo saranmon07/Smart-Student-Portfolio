@@ -4,8 +4,8 @@ A desktop application developed using Java Swing, JDBC, MySQL, OOP, and Maven.
 
 ## Technology Stack
 
-- Java 17+
-- Java Swing / AWT
+- Java 26.0.1
+- Java Swing
 - JDBC
 - MySQL
 - Maven
